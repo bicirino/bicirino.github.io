@@ -1,8 +1,8 @@
 # bicirino.github.io
 Meu site pessoal 
 
-Gmail: 
+**Gmail**: 
 -> gabrielcirinom@gmail.com
 
-LinkedIn: 
+**LinkedIn**: 
 -> https://www.linkedin.com/in/gabriel-martins-cirino-91a283307/
